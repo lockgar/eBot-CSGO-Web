@@ -90,11 +90,11 @@
       </trans-unit>
       <trans-unit id="52">
         <source>Main Menu</source>
-        <target/>
+	      <target>Általános</target>
       </trans-unit>
       <trans-unit id="53">
         <source>Statistics</source>
-        <target/>
+	      <target>Statisztikák</target>
       </trans-unit>
       <trans-unit id="54">
         <source>Ingame Help</source>
